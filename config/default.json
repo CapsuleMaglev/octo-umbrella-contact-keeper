@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://capsulemaglev:capsulemaglev@contactkeeper-w0f5w.mongodb.net/test?retryWrites=true&w=majority"
+}
